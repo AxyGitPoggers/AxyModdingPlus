@@ -13,7 +13,7 @@ just get original fnf modding plus for now: [ItchIo](https://harlessben321.itch.
 ok so first you have to download everything from this repository 
 [GitHub](https://github.com/AxyGitPoggers/Axy-Branch-Modding-Plus)
 
-##Installing the Required Programs
+## Installing the Required Programs
 
 First you need to install Haxe and HaxeFlixel. I'm too lazy to write and keep updated with that setup (which is pretty simple).
 
@@ -58,7 +58,7 @@ class APIStuff
 ```
 and you should be good to go there.
 
-Compiling game
+## Compiling game
 Once you have all those installed, it's pretty easy to compile the game. You just need to run 'lime test html5 -debug' in the root of the project to build and run the HTML5 version. (command prompt navigation guide can be found here: https://ninjamuffin99.newgrounds.com/news/post/1090480)
 
 To run it from your desktop (Windows, Mac, Linux) it can be a bit more involved. For Linux, you only need to open a terminal in the project directory and run 'lime test linux -debug' and then run the executable file in export/release/linux/bin. For Windows, you need to install Visual Studio Community 2019. While installing VSC, don't click on any of the options to install workloads. Instead, go to the individual components tab and choose the following:
