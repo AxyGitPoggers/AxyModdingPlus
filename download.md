@@ -4,7 +4,7 @@
 
 for if you just wanna play the game
 
-go get it at itchio: [ItchIo](https://axyitchio.itch.io/fnf-modding-plus-axy-build)
+go get it at itchio: [ItchIo](https://axyitchio.itch.io/md)
 
 just get original fnf modding plus for now: [ItchIo](https://harlessben321.itch.io/fnf-modding-plus)
 
