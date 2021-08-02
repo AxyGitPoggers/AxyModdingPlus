@@ -16,9 +16,9 @@ ok so first you have to download everything from this repository
 
 open the link thats sais "GitHub"
 
-then press this button [code](https://axygitpoggers.github.io/AxyModdingPlus/cool.png)
+then press this button on the website ![code](https://axygitpoggers.github.io/AxyModdingPlus/cool.png)
 
-then this [cool](https://axygitpoggers.github.io/AxyModdingPlus/zip.png)
+then this ![cool](https://axygitpoggers.github.io/AxyModdingPlus/zip.png)
 
 then unzip the downloaded file to your desktop
 
