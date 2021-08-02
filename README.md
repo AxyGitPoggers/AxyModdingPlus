@@ -16,6 +16,7 @@ take down mods that don't follow this rule.
 - Need Help? official FNF Modding Plus Discord: https://discord.gg/96nV4Q5HMr
 ## credits
 [credits page](https://axygitpoggers.github.io/AxyModdingPlus/credits)
+[discord](https://discord.gg/upVkSqEXwM)
 
 ## downloads and crap
 [download page](https://axygitpoggers.github.io/AxyModdingPlus/download)
