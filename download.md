@@ -22,11 +22,15 @@ Install HaxeFlixel after downloading Haxe
 Other installations you'd need is the additional libraries, a fully updated list will be in Project.xml in the project root. Currently, these are all of the things you need to install:
 
 > flixel
+
 > flixel-addons
+
 > flixel-ui
+
 > hscript
+
 > newgrounds
-> 
+
 So for each of those type haxelib install [library] so shit like haxelib install newgrounds
 
 You'll also need to install a couple things that involve Gits. To do this, you need to do a few things first.
