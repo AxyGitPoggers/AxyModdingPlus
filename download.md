@@ -11,7 +11,16 @@ just get original fnf modding plus for now: [ItchIo](https://harlessben321.itch.
 ## THIS IS FOR BUILDING THE GAME YOURELF
 
 ok so first you have to download everything from this repository 
+
 [GitHub](https://github.com/AxyGitPoggers/Axy-Branch-Modding-Plus)
+
+open the link thats sais "GitHub"
+
+then press this button [code](https://axygitpoggers.github.io/AxyModdingPlus/cool.png)
+
+then this [cool](https://axygitpoggers.github.io/AxyModdingPlus/zip.png)
+
+then unzip the downloaded file to your desktop
 
 ## Installing the Required Programs
 
