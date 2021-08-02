@@ -7,6 +7,6 @@ and follow compination steps in fnfs repository
 
 ## JUST DOWNLOADING FROM ITCH.IO
 
-go get it at itchio: [havent made link yet](example.com)
+go get it at itchio: [havent made link yet](https://example.com)
 
-just get original fnf modding plus for now: [GameBannana](https://gamebanana.com/gamefiles/14264)
+just get original fnf modding plus for now: [ItchIo](https://harlessben321.itch.io/fnf-modding-plus)
